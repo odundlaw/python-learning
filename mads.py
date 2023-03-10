@@ -54,10 +54,6 @@ class Guess():
                 print(err);
             
 
-
-
-
-    
 guess = Guess();
 
 print(guess.start_game());
