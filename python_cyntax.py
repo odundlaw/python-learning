@@ -9,5 +9,5 @@ def alternate_string(text):
 
     return "".join(combined_letters)
 
-print(alternate_string("odunayo"))
+print(alternate_string("odunayo"));
 
