@@ -52,7 +52,6 @@ class Guess():
             except ValueError as err:
                 print("Oh no, that is not a valid value!");
                 print(err);
-            
 
 guess = Guess();
 
